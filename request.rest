@@ -1,0 +1,25 @@
+GET https://restdemtimcod-default-rtdb.firebaseio.com/bookphone.json?auth=UUDoUr4MmsZcpLB4RzIGvQPhmz3Yx0Eyxx2dJg3H
+
+###
+GET http://localhost:5000/products/3
+
+###
+POST https://restdemtimcod-default-rtdb.firebaseio.com/bookphone.json
+Content-Type: application/json
+
+{
+   
+}
+
+###
+PUT https://restdemtimcod-default-rtdb.firebaseio.com/bookphone/-NomomfysYsD_PQEolED.json
+Content-Type: application/json
+
+{
+    "name": "goval",
+    "nohp": "0856478826"
+}
+
+
+###
+DELETE  https://restdemtimcod-default-rtdb.firebaseio.com/bookphone/-Nompq1eJcAZLTRKOmSo.json
